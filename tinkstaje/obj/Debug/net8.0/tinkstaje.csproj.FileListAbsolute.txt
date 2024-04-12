@@ -1,0 +1,14 @@
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\bin\Debug\net8.0\tinkstaje.exe
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\bin\Debug\net8.0\tinkstaje.deps.json
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\bin\Debug\net8.0\tinkstaje.runtimeconfig.json
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\bin\Debug\net8.0\tinkstaje.dll
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\bin\Debug\net8.0\tinkstaje.pdb
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.AssemblyInfoInputs.cache
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.AssemblyInfo.cs
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.csproj.CoreCompileInputs.cache
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.dll
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\refint\tinkstaje.dll
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.pdb
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.genruntimeconfig.cache
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\ref\tinkstaje.dll
