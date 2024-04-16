@@ -12,3 +12,4 @@ C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debu
 C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.pdb
 C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.genruntimeconfig.cache
 C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\ref\tinkstaje.dll
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.sourcelink.json
