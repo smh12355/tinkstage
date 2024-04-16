@@ -12,6 +12,7 @@ C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debu
 C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.pdb
 C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.genruntimeconfig.cache
 C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\ref\tinkstaje.dll
+<<<<<<< HEAD
 C:\Users\krik6\Desktop\tinkoff\tinkstage\tinkstaje\bin\Debug\net8.0\tinkstaje.exe
 C:\Users\krik6\Desktop\tinkoff\tinkstage\tinkstaje\bin\Debug\net8.0\tinkstaje.deps.json
 C:\Users\krik6\Desktop\tinkoff\tinkstage\tinkstaje\bin\Debug\net8.0\tinkstaje.runtimeconfig.json
@@ -27,3 +28,6 @@ C:\Users\krik6\Desktop\tinkoff\tinkstage\tinkstaje\obj\Debug\net8.0\refint\tinks
 C:\Users\krik6\Desktop\tinkoff\tinkstage\tinkstaje\obj\Debug\net8.0\tinkstaje.pdb
 C:\Users\krik6\Desktop\tinkoff\tinkstage\tinkstaje\obj\Debug\net8.0\tinkstaje.genruntimeconfig.cache
 C:\Users\krik6\Desktop\tinkoff\tinkstage\tinkstaje\obj\Debug\net8.0\ref\tinkstaje.dll
+=======
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\tinkstaje\obj\Debug\net8.0\tinkstaje.sourcelink.json
+>>>>>>> 086f2bfdfabb8a4afc123e1e87ba0b7422aba8cf
