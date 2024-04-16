@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tinkstaje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5b52f0be550bc229bf8f2ea5df777a747a3e02e")]
 [assembly: System.Reflection.AssemblyProductAttribute("tinkstaje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tinkstaje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
